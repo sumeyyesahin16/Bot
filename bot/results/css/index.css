@@ -1,0 +1,48 @@
+<!-- <link rel="shortcut icon" type="image/x-icon" href="https://portail.if-algerie.com/assets/images/favicon.ico"> -->
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/js/calendar/dist/fullcalendar.css">
+
+<link href="https://portail.if-algerie.com/assets/css/bootstrap-datepicker.min.css" rel="stylesheet" type="text/css">
+
+<link href="https://portail.if-algerie.com/../assets/plugins/timepicker/bootstrap-timepicker.min.css&quot;" rel="stylesheet">
+<link href="https://portail.if-algerie.com/../assets/plugins/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+<style>
+	.dark-logo {
+		width:80px;
+	}
+</style>
+<style>
+	.u-scroll-sidebar {
+		margin: 0 auto;
+		max-width: 1280px;
+		padding: 0 15px;
+	}
+</style>
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/css/u-theme.min.css">
+<style>
+	.topbar {
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0090cc+0,0090cc+50,00bee4+100 */
+		background: #0090cc; /* Old browsers */
+		background: -moz-linear-gradient(left, #0090cc 0%, #0090cc 50%, #00bee4 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(left, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to right, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0090cc', endColorstr='#00bee4',GradientType=1 ); /* IE6-9 */
+		height: 70px;
+	}
+
+	.left-sidebar {
+		padding-top: 70px;
+	}
+
+	.topbar .top-navbar {
+		min-height: 70px;
+	}
+</style>
+<style>
+	.progress {
+		margin-top: 8px;
+	}
+	.datepicker {
+		z-index: 1600 !important; /* has to be larger than 1050 */
+	}
+</style>

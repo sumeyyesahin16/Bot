@@ -1,0 +1,3 @@
+PyQt5
+undetected-chromedriver
+webdriver-manager

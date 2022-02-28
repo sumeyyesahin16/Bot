@@ -1,0 +1,162 @@
+
+<style>
+        .dark-logo {
+            width:80px;
+        }
+    </style>
+<style>
+        .u-scroll-sidebar {
+            margin: 0 auto;
+            max-width: 1280px;
+            padding: 0 15px;
+        }
+    </style>
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/css/u-theme.min.css">
+<style>
+        .topbar {
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0090cc+0,0090cc+50,00bee4+100 */
+            background: #0090cc; /* Old browsers */
+            background: -moz-linear-gradient(left, #0090cc 0%, #0090cc 50%, #00bee4 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(left, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to right, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0090cc', endColorstr='#00bee4',GradientType=1 ); /* IE6-9 */
+            height: 70px;
+        }
+
+        .left-sidebar {
+            padding-top: 70px;
+        }
+
+        .topbar .top-navbar {
+            min-height: 70px;
+        }
+    </style>
+<style>
+        .progress {
+            margin-top: 8px;
+        }
+        .datepicker {
+            z-index: 1600 !important; /* has to be larger than 1050 */
+        }
+    </style>
+
+
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://portail.if-algerie.com/assets/js/calendar/dist/fullcalendar.css">
+<link href="https://portail.if-algerie.com/assets/css/bootstrap-datepicker.min.css" rel="stylesheet" type="text/css">
+<link href="https://portail.if-algerie.com/../assets/plugins/timepicker/bootstrap-timepicker.min.css&quot;" rel="stylesheet">
+<link href="https://portail.if-algerie.com/../assets/plugins/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+<style>
+	.u-scroll-sidebar {
+		margin: 0 auto;
+		max-width: 1280px;
+		padding: 0 15px;
+	}
+</style>
+<style>
+    * {
+        -webkit-locale: "fr";
+        box-sizing: border-box;
+        outline: none;
+        font-family: sans-serif;
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: transparent;
+        position: relative;
+        min-height: 100%;
+        background: #ffffff;
+        --blue: #007bff;
+        --indigo: #6610f2;
+        --purple: #6f42c1;
+        --pink: #e83e8c;
+        --red: #dc3545;
+        --orange: #fd7e14;
+        --yellow: #ffc107;
+        --green: #28a745;
+        --teal: #20c997;
+        --cyan: #17a2b8;
+        --white: #fff;
+        --gray: #6c757d;
+        --gray-dark: #343a40;
+        --primary: #007bff;
+        --secondary: #6c757d;
+        --success: #28a745;
+        --info: #17a2b8;
+        --warning: #ffc107;
+        --danger: #dc3545;
+        --light: #f8f9fa;
+        --dark: #343a40;
+        --breakpoint-xs: 0;
+        --breakpoint-sm: 576px;
+        --breakpoint-md: 768px;
+        --breakpoint-lg: 992px;
+        --breakpoint-xl: 1200px;
+        --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+        --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: transparent;
+        --blue: #007bff;
+        --indigo: #6610f2;
+        --purple: #6f42c1;
+        --pink: #e83e8c;
+        --red: #dc3545;
+        --orange: #fd7e14;
+        --yellow: #ffc107;
+        --green: #28a745;
+        --teal: #20c997;
+        --cyan: #17a2b8;
+        --white: #fff;
+        --gray: #6c757d;
+        --gray-dark: #343a40;
+        --primary: #007bff;
+        --secondary: #6c757d;
+        --success: #28a745;
+        --info: #17a2b8;
+        --warning: #ffc107;
+        --danger: #dc3545;
+        --light: #f8f9fa;
+        --dark: #343a40;
+        --breakpoint-xs: 0;
+        --breakpoint-sm: 576px;
+        --breakpoint-md: 768px;
+        --breakpoint-lg: 992px;
+        --breakpoint-xl: 1200px;
+        --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+        --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+        font-size: 1rem;
+        line-height: 1.5;
+        text-align: left;
+        color: #67757c;
+        font-weight: 300;
+        /* -webkit-box-direction: normal; */
+        word-wrap: break-word;
+        box-sizing: border-box;
+        outline: none;
+        font-family: Helvetica Neue;
+    }
+</style>
+<style>
+        .topbar {
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0090cc+0,0090cc+50,00bee4+100 */
+            background: #0090cc; /* Old browsers */
+            background: -moz-linear-gradient(left, #0090cc 0%, #0090cc 50%, #00bee4 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(left, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to right, #0090cc 0%,#0090cc 50%,#00bee4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0090cc', endColorstr='#00bee4',GradientType=1 ); /* IE6-9 */
+            height: 70px;
+        }
+
+        .left-sidebar {
+            padding-top: 70px;
+        }
+
+        .topbar .top-navbar {
+            min-height: 70px;
+        }
+    </style>
